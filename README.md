@@ -1,4 +1,4 @@
-python-hesap makinesi
+#python-hesap makinesi
 #ALICIDAN ALINAN İKİ SAYININ,ALICININ İSTEDİĞİ İŞLEMİNİ YAPMA:
 
 sayı1 = float(input("ilk sayıyı giriniz : "))
